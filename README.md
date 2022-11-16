@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santhosh-CS07
+- 👋 Hi, I’m SANTHOSH MUDAVATH a JavaScript Developer.
 - 👀 I’m interested in creating future technologies.
 - 🌱 I’m currently learning the programming roots.
 
