@@ -5,7 +5,6 @@
 - My Plans:
 - 1. Understanding programming
 - 2. Building a web application for real time use case.
-- 3. Adding blockchain as the security for the web appliaction.
 
 <!---
 Santhosh-CS07/Santhosh-CS07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
